@@ -7,8 +7,8 @@ This is a passion project that was designed to create basic information on Yugio
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/Yugioh-card-interactions.git
+```
+git clone https://github.com/Ethan-Bock/Yugioh-card-interactions.git
 cd Yugioh-card-interactions
 ```
 
